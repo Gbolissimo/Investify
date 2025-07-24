@@ -11,6 +11,14 @@ flutter run -t lib/main_sandbox.dart --flavor sandbox
 flutter run -t lib/main_live.dart --flavor live
 
 # Screenshots
-![Profile Screen](screenshots/scr-1.png) ![Profile Screen](screenshots/scr-2.png) ![Profile Screen](screenshots/scr-3.png) 
+<p align="center">
+  <img src="screenshots/scr-1.png" width="200"/>
+  <img src="screenshots/scr-2.png" width="200"/>
+  <img src="screenshots/scr-3.png" width="200"/>
+</p>
 
-![Profile Screen](screenshots/scr-4.png) ![Profile Screen](screenshots/scr-5.png) ![Profile Screen](screenshots/scr-6.png)
+<p align="center">
+  <img src="screenshots/scr-4.png" width="200"/>
+  <img src="screenshots/scr-5.png" width="200"/>
+  <img src="screenshots/scr-6.png" width="200"/>
+</p>
