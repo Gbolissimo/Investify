@@ -1,16 +1,16 @@
 # investify
 
-An investment platform project.
+An investment platform project. (Coding Assessment)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# For sandbox flavor
+flutter run -t lib/main_sandbox.dart --flavor sandbox
 
-A few resources to get you started if this is your first Flutter project:
+# For live flavor
+flutter run -t lib/main_live.dart --flavor live
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Screenshots
+![Profile Screen](screenshots/scr-1.png) ![Profile Screen](screenshots/scr-2.png) ![Profile Screen](screenshots/scr-3.png) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Profile Screen](screenshots/scr-4.png) ![Profile Screen](screenshots/scr-5.png) ![Profile Screen](screenshots/scr-6.png)
